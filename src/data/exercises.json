@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Crunches",
+    "category": "abs"
+  },
+  {
+    "name": "Leg Raises",
+    "category": "abs"
+  },
+  {
+    "name": "Lat Pull Down",
+    "category": "back"
+  },
+  {
+    "name": "Pull up",
+    "category": "back"
+  },
+  {
+    "name": "Cable Row",
+    "category": "back"
+  },
+  {
+    "name": "Barbell Curl",
+    "category": "biceps"
+  },
+  {
+    "name": "Dumbbell Curl",
+    "category": "biceps"
+  },
+  {
+    "name": "Scott Biceps",
+    "category": "biceps"
+  },
+  {
+    "name": "Bench Press",
+    "category": "chest"
+  },
+  {
+    "name": "Incline Bench Press",
+    "category": "chest"
+  },
+  {
+    "name": "Cable flys",
+    "category": "chest"
+  },
+  {
+    "name": "Deadlift",
+    "category": "core"
+  },
+  {
+    "name": "Hyper extension",
+    "category": "core"
+  },
+  {
+    "name": "Push up",
+    "category": "general"
+  },
+  {
+    "name": "Kettlebell Swing",
+    "category": "general"
+  },
+  {
+    "name": "Squat",
+    "category": "legs"
+  },
+  {
+    "name": "Leg Press",
+    "category": "legs"
+  },
+  {
+    "name": "Lunges",
+    "category": "legs"
+  },
+  {
+    "name": "Military Press",
+    "category": "shoulders"
+  },
+  {
+    "name": "Military Press",
+    "category": "shoulders"
+  },
+  {
+    "name": "Push Down",
+    "category": "triceps"
+  },
+  {
+    "name": "Narrow grip Bench Press",
+    "category": "triceps"
+  }
+]
